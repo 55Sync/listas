@@ -37,17 +37,17 @@
 ## 2ª EDIÇÃO | EXIBIDA EM OUTUBRO DE 2017
 
 
-| SEXTA-FEIRA           |                        5:05:00 |
-|-----------------------|--------------------------------|
-| Ai Mai Mii S1         | 13x3 ≈ 0:40:00                 |
-| Yama no Susume        | 12X3 min - 0:40:00             |
-| Teekyuu               | 12x2 min = 0:24:00             |
-| Mizu no Kotoba        | 1x9 min = 0:09:00              |
-| There She Is!!        | 5x5 min = 0:25:00              |
-| Nyoro-n Churuya-san   | 13x2 min = 0:26:00             |
-| Hinata no Aoshigure   | 1x18 min = 0:18:00             |
-| Cat Soup              | Surreal, 1x32 min = 0:32:00    |
-| Oshiete Galko-chan    | 12x7 min = 1:24:00             |
+| SEXTA-FEIRA           | Gênero  |            5:05:00 |
+|-----------------------|---------|--------------------|
+| Ai Mai Mii S1         |         | 13x3 ≈ 0:40:00     |
+| Yama no Susume        |         | 12X3 min - 0:40:00 |
+| Teekyuu               |         | 12x2 min = 0:24:00 |
+| Mizu no Kotoba        |         | 1x9 min = 0:09:00  |
+| There She Is!!        |         | 5x5 min = 0:25:00  |
+| Nyoro-n Churuya-san   |         | 13x2 min = 0:26:00 |
+| Hinata no Aoshigure   |         | 1x18 min = 0:18:00 |
+| Cat Soup              | Surreal | 1x32 min = 0:32:00 |
+| Oshiete Galko-chan    |         | 12x7 min = 1:24:00 |
 
 <br>
 
@@ -55,7 +55,7 @@
 |-----------------------|-----------------------------------|
 | Digital Juice         | 6x3 min = 0:18:00                 |
 | Ojisan to Marshmallow | 12x3 min = 0:36:00                |
-| Japan Animator Expo   | 36 EPS DE 6 A 8 MINUTOS ≈ 4:05:00 |
+| Japan Animator Expo   | 36x6~8 min = 4:05:00              |
 
 <br>
 
@@ -100,17 +100,17 @@
 
 <br>
 
-| SEXTA-FEIRA           |                           5:05:00 |
-|-----------------------|-----------------------------------|
-| Ai Mai Mii S1         | 13x3 ≈ 0:40:00                    |
-| Yama no Susume        | 12X3 min - 0:40:00                |
-| Teekyuu               | 12x2 min = 0:24:00                |
-| Mizu no Kotoba        | 1x9 min = 0:09:00                 |
-| There She Is!!        | 5x5 min = 0:25:00                 |
-| Nyoro-n Churuya-san   | 13x2 min = 0:26:00                |
-| Hinata no Aoshigure   | 1x18 min = 0:18:00                |
-| Cat Soup              | Surreal, 1x32 min = 0:32:00       |
-| Oshiete Galko-chan    | 12x7 min = 1:24:00                |
+| SEXTA-FEIRA           | Gênero  |                   5:05:00 |
+|-----------------------|---------|---------------------------|
+| Ai Mai Mii S1         |         | 13x3 ≈ 0:40:00            |
+| Yama no Susume        |         | 12X3 min - 0:40:00        |
+| Teekyuu               |         | 12x2 min = 0:24:00        |
+| Mizu no Kotoba        |         | 1x9 min = 0:09:00         |
+| There She Is!!        |         | 5x5 min = 0:25:00         |
+| Nyoro-n Churuya-san   |         | 13x2 min = 0:26:00        |
+| Hinata no Aoshigure   |         | 1x18 min = 0:18:00        |
+| Cat Soup              | Surreal | 1x32 min = 0:32:00        |
+| Oshiete Galko-chan    |         | 12x7 min = 1:24:00        |
 
 <br>
 
@@ -118,7 +118,7 @@
 
 <br>
 
-### RECOMENDAÇÕES PARA O PRÓXIMO FESTIVAL DE CURTAS(também podem entrar no Cine/an/
+### RECOMENDAÇÕES PARA O PRÓXIMO FESTIVAL DE CURTAS(também podem entrar no Cine/an/)
 
 | Nome                                                                  | Gênero            |             Duração |
 |-----------------------------------------------------------------------|-------------------|---------------------|
