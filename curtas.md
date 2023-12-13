@@ -39,7 +39,7 @@
 
 | SEXTA-FEIRA           | Gênero  |            5:05:00 |
 |-----------------------|---------|--------------------|
-| Ai Mai Mii S1         |         | 13x3 ≈ 0:40:00     |
+| Ai Mai Mii S1         |         | 13x3 min = 0:40:00 |
 | Yama no Susume        |         | 12X3 min - 0:40:00 |
 | Teekyuu               |         | 12x2 min = 0:24:00 |
 | Mizu no Kotoba        |         | 1x9 min = 0:09:00  |
@@ -102,8 +102,8 @@
 
 | SEXTA-FEIRA           | Gênero  |                   5:05:00 |
 |-----------------------|---------|---------------------------|
-| Ai Mai Mii S1         |         | 13x3 ≈ 0:40:00            |
-| Yama no Susume        |         | 12X3 min - 0:40:00        |
+| Ai Mai Mii S1         |         | 13x3 min = 0:40:00        |
+| Yama no Susume        |         | 12X3 min = 0:40:00        |
 | Teekyuu               |         | 12x2 min = 0:24:00        |
 | Mizu no Kotoba        |         | 1x9 min = 0:09:00         |
 | There She Is!!        |         | 5x5 min = 0:25:00         |
